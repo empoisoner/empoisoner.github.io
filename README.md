@@ -1,7 +1,11 @@
 # empoisoner.github.io
 
 
-Este repositorio lo clone y me sirve para pruebas con Github :)
+08/07/2016
+
+Al fin pude entender como funciona Git y su diferencia con respecto a otros sistemas de control de versiones
 
 
-14/06/2016 Agregado un nuevo cambio
+SHAME 
+
+XD
